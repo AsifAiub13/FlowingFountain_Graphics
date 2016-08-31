@@ -1,0 +1,35 @@
+﻿Build started 29-Aug-16 11:30:27 AM.
+     1>Project "I:\Graphics\GFinal_ok\GFinal_ok\GFinal_ok.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(128): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(106) : definition of 'i' ignored
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(14) : definition of 'i' used
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(128): warning C4018: '<' : signed/unsigned mismatch
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(130): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(106) : definition of 'i' ignored
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(14) : definition of 'i' used
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(131): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(106) : definition of 'i' ignored
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(14) : definition of 'i' used
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(132): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(106) : definition of 'i' ignored
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(14) : definition of 'i' used
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(133): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(106) : definition of 'i' ignored
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(14) : definition of 'i' used
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(135): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(106) : definition of 'i' ignored
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(14) : definition of 'i' used
+     1>i:\graphics\gfinal_ok\gfinal_ok\source.cpp(136): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(106) : definition of 'i' ignored
+                 i:\graphics\gfinal_ok\gfinal_ok\source.cpp(14) : definition of 'i' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\Graphics\GFinal_ok\Debug\GFinal_ok.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\Graphics\GFinal_ok\Debug\GFinal_ok.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\Graphics\GFinal_ok\Debug\GFinal_ok.lib" /MACHINE:X86 Debug\Source.obj
+         GFinal_ok.vcxproj -> I:\Graphics\GFinal_ok\Debug\GFinal_ok.exe
+     1>Done Building Project "I:\Graphics\GFinal_ok\GFinal_ok\GFinal_ok.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.52
